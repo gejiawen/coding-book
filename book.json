@@ -1,0 +1,9 @@
+{
+    "gitbook": "2.x.x",
+    "title": "蛋糕仙人的编码生活",
+    "description": "蛋糕仙人的编码生活",
+    "structure": {
+        "readme": "intro.md",
+        "summary": "summary.md"
+    }
+}
