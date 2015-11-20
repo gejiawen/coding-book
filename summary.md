@@ -21,4 +21,4 @@
     * [Html5](articles/html5.md)
 * [博客传送门](blog/index.md)
 * [Slides](slide/index.md)
-* [碎碎念](res/index.md)
+* [碎碎念](others/index.md)
